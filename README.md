@@ -1,5 +1,7 @@
-# algo_digit_all
+# An algorithm test
 
- An algorithm test
+#### RUN
 
-Pelouse & Tondeuse
+```bash
+npm start
+```

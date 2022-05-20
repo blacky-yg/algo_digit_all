@@ -1,0 +1,23 @@
+{
+  "name": "algo_digit_all",
+  "version": "1.0.0",
+  "description": "An algorithm test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacky-yg/algo_digit_all.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacky-yg/algo_digit_all/issues"
+  },
+  "homepage": "https://github.com/blacky-yg/algo_digit_all#readme"
+}
