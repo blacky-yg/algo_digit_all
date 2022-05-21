@@ -3,5 +3,5 @@
 #### RUN
 
 ```bash
-npm start
+npm start --file "filepath"
 ```
